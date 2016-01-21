@@ -1,0 +1,18 @@
+p{
+    color:red;
+    font-family: 'Fjalla One', sans-serif;
+    
+}  
+    .class_test{
+        color:yellow;
+        font-size:30px;
+    }
+    
+    #id_test{
+        color:yellow;
+        font-size:30px
+    }
+    
+    .hover_test:hover{
+        background-color:red;
+    }
